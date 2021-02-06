@@ -1,9 +1,9 @@
 # Horiseon-Everyone-Included
 
 <b>User Story</b>
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+<p>AS A marketing agency</p>
+<p>I WANT a codebase that follows accessibility standards</p>
+<p>SO THAT our own site is optimized for search engines</p>
 
 <b>Acceptance Criteria</b>
 GIVEN a webpage meets accessibility standards
