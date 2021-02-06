@@ -19,4 +19,4 @@
 <p>THEN I find a concise, descriptive title</p>
 
 
-https://github.com/xvirix/Horiseon-Everyone-Included
+ https://xvirix.github.io/Horiseon-Everyone-Included/
